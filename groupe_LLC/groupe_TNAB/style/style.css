@@ -1,0 +1,13 @@
+@font-face {
+        font-family: lestyle;
+        src: url("./font/BRUSHSCI.TTF");
+}
+
+body {
+        padding:40px;
+        background-color:white;
+        color:green;
+        font-family:lestyle;
+		text-align:center;
+		height:40px;
+}
